@@ -1,11 +1,25 @@
 nav {
-	text-decoration: : none;
+
 	margin-left: 50px;
 	
 
 }
 ul {
 	list-style: none;
+	margin-top: -28px;
+	margin-left: 70px
+}
+.red{
+	color: red;
+}
+.color{
+	color: red;
+}
+.color2{
+	color: red
+}
+a{
+	text-decoration: none;
 }
 
 
@@ -17,7 +31,8 @@ ul {
 .image {
 	margin right: 45px;
 	width: 1170px;
-	margin-top: 40px;
+	margin-top: 20px;
+
 
 
 
@@ -28,10 +43,42 @@ ul {
 	text-decoration: none;
 
 
+
 }
 li {
 	display: inline-block;
 	width: 200px;
 	font-size:22px;
-	color: #3D58A6
+	color: #3D58A6;
+
 }
+page2
+
+h5{
+	font-size: 24px;
+	color: blue;
+
+}
+span {
+	background-color: blue
+}
+.size{
+	width:300px 
+
+}
+
+.px{
+	width:300px 
+
+}
+.box {
+	display: inline-block;
+	width: 500px
+	
+}
+.paragraf{
+	display: inline;
+	width: 500px
+}
+
+
