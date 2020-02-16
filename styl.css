@@ -55,12 +55,16 @@ li {
 page2
 
 h5{
-	font-size: 24px;
+	font-size:25px;
 	color: blue;
 
 }
 span {
-	background-color: blue
+	background-color: blue;
+	color:white;
+	font-size: 27px;
+	padding:4px
+
 }
 .size{
 	width:300px 
@@ -73,12 +77,13 @@ span {
 }
 .box {
 	display: inline-block;
-	width: 500px
+	width:700px
 	
 }
-.paragraf{
-	display: inline;
-	width: 500px
+p{
+padding-left:30px
 }
+
+
 
 
